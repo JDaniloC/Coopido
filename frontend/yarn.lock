@@ -303,9 +303,9 @@
     yargs "18.0.0"
     zod "3.25.75"
 
-"@angular/common@~13.2.0":
-  version "13.2.7"
-  resolved "https://registry.npmjs.org/@angular/common/-/common-13.2.7.tgz"
+"@angular/common@~19.2.16":
+  version "19.2.16"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-19.2.16.tgz#2ce9c21b7f2181e6d6ab85c346ad6280ef83e23b"
   dependencies:
     tslib "^2.3.0"
 
